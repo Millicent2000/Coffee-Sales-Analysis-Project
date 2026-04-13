@@ -26,6 +26,16 @@
 
 This project focuses on analyzing coffee sales data to uncover trends in customer purchasing behavior, product performance, and revenue generation. An interactive dashboard was developed to enable dynamic exploration of sales performance across different dimensions such as time, product type, and customer segments.
 
+
+<img width="611" height="506" alt="sales overtime" src="https://github.com/user-attachments/assets/b994abc9-b0dc-447d-b886-05a64d8b5bad" />
+
+<img width="517" height="406" alt="country" src="https://github.com/user-attachments/assets/10e5c6da-273d-4801-b0bb-da6dbf617d0c" />
+
+<img width="543" height="406" alt="top 5 countries" src="https://github.com/user-attachments/assets/3cf42190-8b32-40a3-bb66-046ff77fa08c" />
+
+
+
+
 ### Description of Data Source
 
 The dataset consists of multiple related tables, including:
