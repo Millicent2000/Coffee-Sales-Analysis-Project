@@ -1,4 +1,26 @@
 # Coffee-Sales-Analysis-Project
+## Table of content
+
+- [Project Overview](#project-overview)
+
+- [Description of Data Source](#description-of-data-source)
+  
+- [Tools](#tools)
+  
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+
+- [Data Analysis](#data-analysis)
+  
+- [Findings](#findings)
+
+- [Recommendations](#recommendations)
+  
+- [Limitations](limitations)
+
+- [Reference](#reference)
+
 
 ### Project Overview
 
@@ -46,7 +68,7 @@ Data was distributed across different tables and required integration to create 
 - Data validation:
 - Checked and removed duplicates
   
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 Initial exploration was conducted to understand patterns and distributions:
 - Examined sales trends over time
 - Identified top-performing customers
