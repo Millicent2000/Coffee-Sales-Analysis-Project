@@ -57,4 +57,41 @@ Initial exploration was conducted to understand patterns and distributions:
 - Compared customer segments:
   - Loyalty card holders vs non-holders
  
-###
+### Data Analysis
+
+An interactive dashboard was built to analyze key metrics:
+- 📈 Line Chart: Sales over time by coffee type
+- 🏆Bar Chart: Top 5 customers by total purchases
+- 🧭 Timeline Filter: Enables time-based analysis
+- 🎛️ Slicers:
+  - Roast Type (Dark, Medium, Light)
+  - Coffee Size (0.2kg, 0.5kg, 1.0kg, 2.5kg)
+  - Loyalty Card Status (Yes/No)
+    
+These features allow users to dynamically filter and explore insights.
+
+### Findings
+- Sales trends vary over time, with noticeable peaks in certain periods
+- Certain coffee types and roast levels perform better than others
+- A small group of top customers contributes significantly to total revenue
+- Customers with loyalty cards show stronger purchasing behavior
+- Product size influences purchasing patterns and revenue contribution
+
+### Recommendations
+- 🎯 Target top customers with personalized offers or rewards
+- 💳 Promote loyalty programs to increase repeat purchases
+- 📦 Focus on high-performing product sizes and roast types
+- 📅 Use seasonal trends to plan promotions and inventory
+- 🌍 Expand marketing strategies in countries with high sales performance
+  
+### Limitations
+- Data was sourced from multiple tables, increasing risk of lookup errors
+- Missing data required assumptions and manual handling
+- Analysis is limited to available variables (no demographic depth beyond country)
+- No external factors (e.g., seasonality drivers, marketing campaigns) included
+  
+### Reference
+This project was inspired by the tutorial below:
+[https://youtu.be/m13o5aqeCbM?si=56GRmPhPdeu06M_o]
+While the tutorial provided the foundation, I independently handled data cleaning, analysis, and dashboard creation, adding my own insights and improvements.
+  
