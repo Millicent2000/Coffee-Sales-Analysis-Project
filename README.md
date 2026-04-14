@@ -82,10 +82,10 @@ Initial exploration was conducted to understand patterns and distributions:
 ### Data Analysis
 
 An interactive dashboard was built to analyze key metrics:
-- 📈 Line Chart: Sales over time by coffee type
-- 🏆Bar Chart: Top 5 customers by total purchases
-- 🧭 Timeline Filter: Enables time-based analysis
-- 🎛️ Slicers:
+- Line Chart: Sales over time by coffee type
+- Bar Chart: Top 5 customers by total purchases
+  Timeline Filter: Enables time-based analysis
+  - Slicers:
   - Roast Type (Dark, Medium, Light)
   - Coffee Size (0.2kg, 0.5kg, 1.0kg, 2.5kg)
   - Loyalty Card Status (Yes/No)
@@ -100,11 +100,11 @@ These features allow users to dynamically filter and explore insights.
 - Product size influences purchasing patterns and revenue contribution
 
 ### Recommendations
-- 🎯 Target top customers with personalized offers or rewards
-- 💳 Promote loyalty programs to increase repeat purchases
-- 📦 Focus on high-performing product sizes and roast types
-- 📅 Use seasonal trends to plan promotions and inventory
-- 🌍 Expand marketing strategies in countries with high sales performance
+-  Target top customers with personalized offers or rewards
+-  Promote loyalty programs to increase repeat purchases
+-  Focus on high-performing product sizes and roast types
+-  Use seasonal trends to plan promotions and inventory
+-  Expand marketing strategies in countries with high sales performance
   
 ### Limitations
 - Data was sourced from multiple tables, increasing risk of lookup errors
